@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d08c3134-8f26-4dfe-ab56-57c3697026b4}</ProjectGuid>
-    <RootNamespace>BoostAsioTest</RootNamespace>
+    <ProjectGuid>{888bafac-fc88-444a-87b2-023c611376aa}</ProjectGuid>
+    <RootNamespace>BoostAsioServer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Boost_Asio_Server</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
