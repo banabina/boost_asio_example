@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="19_4_atomic_scoped_lock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="19_3_thread.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
